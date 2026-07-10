@@ -1,0 +1,7 @@
+Distribution domain name:
+d184lnjo26lssv.cloudfront.net
+
+
+
+Bucket website endpoint:
+http://my-3982-9632-1350-bucket.s3-website-us-east-1.amazonaws.com
